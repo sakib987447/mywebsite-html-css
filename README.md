@@ -86,44 +86,39 @@ mywebsite-html-css/
 ```
 
 ---
-
 ## 📸 Project Screenshots
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="./screenshots/home.png" width="220"/>
-      <br/>
-      <b>Home Page</b>
-    </td>
-
-```
+<tr>
 <td align="center">
-  <img src="./screenshots/contact.png" width="220"/>
-  <br/>
-  <b>Contact Page</b>
+<img src="./screenshots/home.png" width="220">
+<br>
+<b>Home Page</b>
 </td>
 
 <td align="center">
-  <img src="./screenshots/login.png" width="220"/>
-  <br/>
-  <b>Login Page</b>
+<img src="./screenshots/contact.png" width="220">
+<br>
+<b>Contact Page</b>
 </td>
 
 <td align="center">
-  <img src="./screenshots/register.png" width="220"/>
-  <br/>
-  <b>Register Page</b>
+<img src="./screenshots/login.png" width="220">
+<br>
+<b>Login Page</b>
 </td>
-```
 
-  </tr>
+<td align="center">
+<img src="./screenshots/register.png" width="220">
+<br>
+<b>Register Page</b>
+</td>
+</tr>
 </table>
 
 </div>
-
 ---
 
 ## 🏠 Home Page
